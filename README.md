@@ -63,7 +63,16 @@ Source/              — Unreal 模块源码
 
 ## Demo（视频 / 演示）
 
-[![演示缩略图](https://raw.githubusercontent.com/aili-hue/Feibi-GAS/main/3fae6e6f6730159b421b7b209bef6349.png)](https://www.bilibili.com/video/BV1TVtS6REE5/)
+[![演示缩略图](https://raw.githubusercontent.com/aili-hue/Feibi-GAS/main/3fae6e6f6730159b421b7b209bef6349.png)](https://github.com/aili-hue/Feibi-GAS/blob/main/2026-09-02%2019-49-55.mp4)
+
+或在 README 中内联播放（支持的浏览器会直接播放）：
+
+<video controls width="720">
+  <source src="https://raw.githubusercontent.com/aili-hue/Feibi-GAS/main/2026-09-02%2019-49-55.mp4" type="video/mp4">
+  如果无法播放，请点击以下链接查看：
+</video>
+
+演示视频（仓库）：[2026-09-02 19-49-55.mp4](https://github.com/aili-hue/Feibi-GAS/blob/main/2026-09-02%2019-49-55.mp4)
 
 演示视频（Bilibili）：[使用UE5 C++ GAS 简单复刻鸣潮菲比角色的攻击](https://www.bilibili.com/video/BV1TVtS6REE5/)
 
