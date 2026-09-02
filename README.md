@@ -63,7 +63,7 @@ Source/              — Unreal 模块源码
 
 ## Demo（视频 / 演示）
 
-[![演示缩略图](https://i0.hdslb.com/bfs/archive/47bc8748fe6d732b735ab6bfc35c5705.jpg)](https://www.bilibili.com/video/BV1TVtS6REE5/)
+[![演示缩略图](https://raw.githubusercontent.com/aili-hue/Feibi-GAS/main/3fae6e6f6730159b421b7b209bef6349.png)](https://www.bilibili.com/video/BV1TVtS6REE5/)
 
 演示视频（Bilibili）：[使用UE5 C++ GAS 简单复刻鸣潮菲比角色的攻击](https://www.bilibili.com/video/BV1TVtS6REE5/)
 
@@ -90,3 +90,5 @@ Source/              — Unreal 模块源码
 - 想把属性扩展为更多属性（如防御、格挡）请编辑：Source/GAS/AttributeSet/AttributeSet/General/AttributeSet_General.h/.cpp
 
 ---
+
+如果你希望我现在把视频占位（demo.mp4 或 demo.gif）也添加到仓库（我可以提交一个小的占位文件或者提供如何上传的脚本），告诉我你希望我创建哪种占位文件（空占位 .gitkeep / 占位文本 / 小示例 GIF）。
