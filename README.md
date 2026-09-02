@@ -64,6 +64,8 @@ Source/              — Unreal 模块源码
 ## Demo（视频 / 演示）
 已将你的 Bilibili 演示视频链接加入 README：
 
+[![演示缩略图](https://i0.hdslb.com/bfs/archive/47bc8748fe6d732b735ab6bfc35c5705.jpg)](https://www.bilibili.com/video/BV1TVtS6REE5/)
+
 演示视频（Bilibili）：[使用UE5 C++ GAS 简单复刻鸣潮菲比角色的攻击](https://www.bilibili.com/video/BV1TVtS6REE5/)
 
 说明：
