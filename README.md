@@ -99,5 +99,3 @@ Source/              — Unreal 模块源码
 - 想把属性扩展为更多属性（如防御、格挡）请编辑：Source/GAS/AttributeSet/AttributeSet/General/AttributeSet_General.h/.cpp
 
 ---
-
-如果你希望我现在把视频占位（demo.mp4 或 demo.gif）也添加到仓库（我可以提交一个小的占位文件或者提供如何上传的脚本），告诉我你希望我创建哪种占位文件（空占位 .gitkeep / 占位文本 / 小示例 GIF）。
