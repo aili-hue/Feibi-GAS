@@ -62,19 +62,11 @@ Source/              — Unreal 模块源码
 5. 在编辑器中添加/配置 Ability、Effect、DataAsset（若需要），将示例角色 MyCharacter 作为 Pawn/Character 使用以测试连段与动画区间行为。
 
 ## Demo（视频 / 演示）
-已将你的 Bilibili 演示视频链接加入 README：
 
 [![演示缩略图](https://i0.hdslb.com/bfs/archive/47bc8748fe6d732b735ab6bfc35c5705.jpg)](https://www.bilibili.com/video/BV1TVtS6REE5/)
 
 演示视频（Bilibili）：[使用UE5 C++ GAS 简单复刻鸣潮菲比角色的攻击](https://www.bilibili.com/video/BV1TVtS6REE5/)
 
-说明：
-- 我把视频链接写成带标题的可点击链接，访客点击会跳转到 Bilibili 播放页（推荐用于较大的视频文件）。
-- 如果你希望 README 中显示内联预览（缩略图或 GIF），我可以：
-  - 把一个短 GIF（demo.gif）推到 /media 并在 README 中直接显示；或
-  - 如果你提供封面图 URL，我可以把封面作为可点击缩略图嵌入到 README。
-
-（仓库也保留了 /media 作为演示资源目录的建议位置；若你想我创建一个占位文件我可以继续提交）
 
 ## 调试与测试建议
 - 在动画蒙太奇中添加相应的 AnimNotifyState（参考代码中的实现）以验证命中窗口或物理状态切换。
@@ -98,5 +90,3 @@ Source/              — Unreal 模块源码
 - 想把属性扩展为更多属性（如防御、格挡）请编辑：Source/GAS/AttributeSet/AttributeSet/General/AttributeSet_General.h/.cpp
 
 ---
-
-如果你希望我现在把视频占位（demo.mp4 或 demo.gif）也添加到仓库（我可以提交一个小的占位文件或者提供如何上传的脚本），告诉我你希望我创建哪种占位文件（空占位 .gitkeep / 占位文本 / 小示例 GIF）。
