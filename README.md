@@ -10,7 +10,7 @@
 
 ## 技术栈
 - 语言：C++
-- ���擎 / 运行时：Unreal Engine（本项目为 UE 模块/插件式的 C++ 源码）
+- 引擎 / 运行时：Unreal Engine（本项目为 UE 模块/插件式的 C++ 源码）
 - 主要理念：Gameplay Ability System (GAS) 的能力（Ability）、效果（GameplayEffect）、属性集（AttributeSet）与动画通知结合
 
 ## 项目结构（片段）
@@ -62,19 +62,17 @@ Source/              — Unreal 模块源码
 5. 在编辑器中添加/配置 Ability、Effect、DataAsset（若需要），将示例角色 MyCharacter 作为 Pawn/Character 使用以测试连段与动画区间行为。
 
 ## Demo（视频 / 演示）
-我已在仓库中为演示视频准备了一个位置：/media 。你可以选择其中任一方式上传或链接你的视频：
+已将你的 Bilibili 演示视频链接加入 README：
 
-- 推荐（外部托管，最简单）：把视频上传到 YouTube 或 Bilibili，然后在本 README 中把链接粘贴到“演示视频”位置。示例语法：
+演示视频（Bilibili）：[使用UE5 C++ GAS 简单复刻鸣潮菲比角色的攻击](https://www.bilibili.com/video/BV1TVtS6REE5/)
 
-  演示视频（YouTube）：https://www.youtube.com/watch?v=你的视频ID
+说明：
+- 我把视频链接写成带标题的可点击链接，访客点击会跳转到 Bilibili 播放页（推荐用于较大的视频文件）。
+- 如果你希望 README 中显示内联预览（缩略图或 GIF），我可以：
+  - 把一个短 GIF（demo.gif）推到 /media 并在 README 中直接显示；或
+  - 如果你提供封面图 URL，我可以把封面作为可点击缩略图嵌入到 README。
 
-- 存放在仓库（备用）：将视频命名为 /media/demo.mp4 并推到仓库（注意体积限制）。README 中提供的相对链接会指向该文件：
-
-  - 本地视频文件（示例链接）：./media/demo.mp4
-
-- GIF 截图：如需在 README 中直接可见的预览，建议导出一段短 GIF（例如 demo.gif）并放在 /media 下，GitHub 会在 README 中显示 GIF。
-
-我已为你创建了 media/README.md，说明如何上传文件与如何在 README 中引用它们（见仓库 /media/README.md）。如果你把视频上传到 YouTube 或将 demo.mp4 推到 /media，我可以把 README 更新为内嵌的预览或直接嵌入外部视频链接。
+（仓库也保留了 /media 作为演示资源目录的建议位置；若你想我创建一个占位文件我可以继续提交）
 
 ## 调试与测试建议
 - 在动画蒙太奇中添加相应的 AnimNotifyState（参考代码中的实现）以验证命中窗口或物理状态切换。
@@ -99,4 +97,4 @@ Source/              — Unreal 模块源码
 
 ---
 
-如果你希望我现在把视频占位（demo.mp4 或 demo.gif）也添加到仓库（我可以提交一个小的��位文件或者提供如何上传的脚本），告诉我你希望我创建哪种占位文件（空占位 .gitkeep / 占位文本 / 小示例 GIF）。
+如果你希望我现在把视频占位（demo.mp4 或 demo.gif）也添加到仓库（我可以提交一个小的占位文件或者提供如何上传的脚本），告诉我你希望我创建哪种占位文件（空占位 .gitkeep / 占位文本 / 小示例 GIF）。
