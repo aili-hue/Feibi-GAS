@@ -1,4 +1,4 @@
-# Feibi-GAS（菲比）——基于 Unreal Engine C++ + GAS 的战斗原型（fan-made）
+# Feibi-GAS（菲比）——基于 Unreal Engine C++ + GAS 的战斗复刻·（fan-made）
 
 基于 Unreal Engine C++ 与 Gameplay Ability System (GAS) 的“菲比”战斗复刻与示例，包含：3 段普攻、重击、跳跃轻/重攻击与空地衔接逻辑的实现参考（fan-made）。本仓库提供一个小型、可阅读的代码基，用于演示如何使用 GAS 构建动作/连段与动画通知交互。
 
